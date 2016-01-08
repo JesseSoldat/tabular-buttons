@@ -15,6 +15,7 @@
   border: #000 1px solid;
   border-bottom: none;
   width: 0px;
+  height: 10px;
   top: 67px;
   display: none;
   transition: left .5s ease 0s, width .5s linear 0s;
