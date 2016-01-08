@@ -1,0 +1,21 @@
+#mycontent {
+  font-size: 18px;
+  border: : #000 1px solid;
+  width: 450px;
+  height: 250px;
+  padding: 20px;
+  background-color: #DFEFFF;
+
+}
+#mymenu > button {
+  padding: 10px 30px;
+}
+#btn_marker {
+  position: absolute;
+  border: #000 1px solid;
+  border-bottom: none;
+  width: 0px;
+  top: 67px;
+  display: none;
+  transition: left .5s ease 0s, width .5s linear 0s;
+}
